@@ -25,5 +25,7 @@ test4
 test5
 test8
 test9
+test12
+test13
 
 ?>
