@@ -20,5 +20,6 @@ $app->get('/', function() use($app) {
 $app->run();
 
 test 1
+test3
 
 ?>
